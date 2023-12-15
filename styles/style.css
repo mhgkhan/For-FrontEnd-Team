@@ -18,6 +18,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Rethink Sans', sans-serif;
+    transition: .5s;
 }
 
 body {
@@ -244,6 +245,7 @@ section .container .right .buttons button:first-child {
 
 section .container .right .buttons button:hover {
     background: linear-gradient(310deg, #0d0e51, #3a53db, #2fffff);
+    color: black;
 }
 
 /* it is not working....  please fix it ... */
